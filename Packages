@@ -1,1 +1,15 @@
-
+Package: com.twoseconddad.meme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: ryan ryan@twoseconddad.com
+Depends: mobilesubstrate, libactivator
+Filename: debs//NiceMeme.deb
+Size: 22484
+MD5sum: C0DFE5528B1C59238F1EB63F17EFAF71
+SHA1: 28DF4AB10853536EAF646E1C1138E889D25A7A70
+SHA256: 104BB0EC79332A599FB6F3A4593D892627508D282ACD055295D97D6C4758DC39
+Section: Tweaks
+Description: Just a quick test, thanks codyd51 :)
+Author: ryan
+Depiction: http://ryandanger.github.io/Depic/ NiceMeme/index.html
+Name: Nice Meme!
