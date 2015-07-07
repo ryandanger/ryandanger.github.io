@@ -1,0 +1,9 @@
+Origin: Ryan's Repo
+Label: Ryan's Repo
+Suite: stable
+Version: 1.0
+Codename: Danger
+Architectures: iphoneos-arm
+components: main
+Description: Ryan's Repo
+MD5SUM:
